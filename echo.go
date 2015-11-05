@@ -17,7 +17,7 @@ import (
 	"encoding/xml"
 
 	"github.com/labstack/gommon/color"
-	"golang.org/x/net/http2"
+	"github.com/bradfitz/http2"
 	"golang.org/x/net/websocket"
 )
 
